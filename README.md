@@ -1,2 +1,2 @@
-# Projects
-Various projects for school or fun
+# FoodHub Analysis
+MIT-IDSS Data Science and Machine Learning Project
